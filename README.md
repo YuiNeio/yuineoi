@@ -84,7 +84,3 @@ Clone this repository to your computer:
 ```bash
 git clone https://github.com/YuiNeio/Yui-web/tree/main
 
-
-## Pilihan Bahasa
-
-[English](README.md) | [Bahasa Indonesia](README_ID.md)

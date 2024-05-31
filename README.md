@@ -14,6 +14,15 @@ Yui Neoi adalah bot WhatsApp yang dikembangkan oleh Lumine - MD. Bot ini dibangu
 - **Node.js**: Lingkungan runtime untuk menjalankan kode JavaScript di server.
 - **WhatsApp Web API**: API untuk berinteraksi dengan WhatsApp melalui web.
 
+## 🍂 Teknologi yang Digunakan
+Dan ini adalah website pertama yang saya CpYst dari Author bot nya sendiri / penyedia base
+Lumine-MD, tampilan web ini adalah Tampilan yang tidak ada banyak Menu dan simple tetapi menarik
+untuk di lihat, Terimakasih
+
+## thanks 🕊
+- Qyuunee (Owner) 
+- YuiNeoi
+
 ## 📚 Panduan Penggunaan
 
 ### 1. Prasyarat

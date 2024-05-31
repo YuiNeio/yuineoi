@@ -86,3 +86,5 @@ Klon repositori ini ke komputer Anda:
 ```bash
 git clone https://github.com/YuiNeio/Yui-web/tree/main
 ```
+```
+2024 Yui - Neoi | All Rights Reserved

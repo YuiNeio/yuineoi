@@ -9,6 +9,9 @@ Yui Neoi is a WhatsApp bot developed by Lumine - MD. This bot is built using Jav
 - **Media**: Sends and receives images, videos, and documents.
 - **Customization**: Users can customize bot responses according to their needs.
 
+## 🖼️ Screenshot
+[![Screenshot](https://telegra.ph/file/c2b40bedb5c58953e3cc2.jpg)]
+
 ## 🛠️ Technologies Used
 - **JavaScript**: The primary programming language for bot development.
 - **Node.js**: Runtime environment for running JavaScript code on the server.
@@ -18,8 +21,8 @@ Yui Neoi is a WhatsApp bot developed by Lumine - MD. This bot is built using Jav
 And this is the first website that I copied from the author of the bot himself / the base provider Lumine-MD, the appearance of this website is a Simple layout without many menus but attractive to look at, Thank you
 
 ## thanks 🕊
-- Qyuunee (Owner) - <a href="https://chat.whatsapp.com/CjxuywuwOglE7p2tFBqdH3">Lumine - MD</a>
-- YuiNeoi - <a href="https://chat.whatsapp.com/Gdosq4nvuoyA5IJlCh1aDA">Group Yui-Neoi</a>
+- Qyuunee (Owner) - [Lumine - MD](https://chat.whatsapp.com/CjxuywuwOglE7p2tFBqdH3)
+- YuiNeoi - [Group Yui-Neoi](https://chat.whatsapp.com/Gdosq4nvuoyA5IJlCh1aDA)
 
 
 ## SECURITY ☠️
@@ -83,4 +86,3 @@ List the prerequisites here.
 Clone this repository to your computer:
 ```bash
 git clone https://github.com/YuiNeio/Yui-web/tree/main
-

@@ -1,84 +1,79 @@
 # Yui Neoi - WhatsApp Bot
 
-Yui Neoi adalah bot WhatsApp yang dikembangkan oleh Lumine - MD. Bot ini dibangun menggunakan JavaScript dan tipe bot ini adalah CJs. Yui Neoi dirancang untuk memberikan berbagai fitur menarik dan fungsionalitas untuk meningkatkan pengalaman pengguna di WhatsApp.
+Yui Neoi is a WhatsApp bot developed by Lumine - MD. This bot is built using JavaScript, and its bot type is CJs. Yui Neoi is designed to provide various interesting features and functionalities to enhance the user experience on WhatsApp.
 
-## 🚀 Fitur Utama
-- **Pesan Otomatis**: Balas pesan otomatis dengan berbagai template.
-- **Pencarian Web**: Mencari informasi dari web secara langsung melalui WhatsApp.
-- **Pengingat**: Mengatur pengingat untuk berbagai acara dan tugas.
-- **Media**: Mengirim dan menerima gambar, video, dan dokumen.
-- **Kustomisasi**: Pengguna dapat menyesuaikan respon bot sesuai kebutuhan mereka.
+## 🚀 Key Features
+- **Auto Reply**: Automatically replies to messages with various templates.
+- **Web Search**: Searches for information from the web directly through WhatsApp.
+- **Reminders**: Sets reminders for various events and tasks.
+- **Media**: Sends and receives images, videos, and documents.
+- **Customization**: Users can customize bot responses according to their needs.
 
-## 🛠️ Teknologi yang Digunakan
-- **JavaScript**: Bahasa pemrograman utama untuk mengembangkan bot.
-- **Node.js**: Lingkungan runtime untuk menjalankan kode JavaScript di server.
-- **WhatsApp Web API**: API untuk berinteraksi dengan WhatsApp melalui web.
+## 🛠️ Technologies Used
+- **JavaScript**: The primary programming language for bot development.
+- **Node.js**: Runtime environment for running JavaScript code on the server.
+- **WhatsApp Web API**: API for interacting with WhatsApp through the web.
 
-## 🍂 Web
-Dan ini adalah website pertama yang saya CpYst dari Author bot nya sendiri / penyedia base
-Lumine-MD, tampilan web ini adalah Tampilan yang tidak ada banyak Menu dan simple tetapi menarik
-untuk di lihat, Terimakasih
+## 🍂 Website
+And this is the first website that I copied from the author of the bot himself / the base provider Lumine-MD, the appearance of this website is a Simple layout without many menus but attractive to look at, Thank you
 
 ## thanks 🕊
-- Qyuunee (Owner) 
+- Qyuunee (Owner)
 - YuiNeoi
 
 ## SECURITY ☠️
-# Kebijakan Keamanan
+# Security Policy
 
-## Laporan Kerentanan
+## Vulnerability Reporting
 
-Kami sangat menghargai kontribusi komunitas dalam menjaga keamanan proyek kami. Jika Anda menemukan kerentanan keamanan, harap laporkan kepada kami dengan mengirimkan email ke yuineoi.ichigo.me Kami akan segera menanggapi dan bekerja sama dengan Anda untuk menyelesaikan masalah.
+We greatly appreciate community contributions to maintaining the security of our project. If you discover a security vulnerability, please report it to us by sending an email to yuineoi.ichigo.me We will promptly respond and collaborate with you to address the issue.
 
-Harap jangan membuat masalah GitHub untuk laporan keamanan, karena masalah tersebut dapat dilihat oleh publik sebelum masalah diperbaiki, yang dapat meningkatkan risiko keamanan.
+Please do not create GitHub issues for security reports, as those issues may be publicly visible before the issue is fixed, which can increase security risks.
 
-## Tanggung Jawab Kami
+## Our Responsibilities
 
-Kami akan menanggapi laporan keamanan secepat mungkin dan akan melakukan yang terbaik untuk mengatasi masalah dengan cepat. Kami akan mempertahankan komunikasi terbuka dan transparan sepanjang proses penyelesaian masalah.
+We will respond to security reports as quickly as possible and will do our best to address the issue promptly. We will maintain open and transparent communication throughout the issue resolution process.
 
-## Tanggung Jawab Anda
+## Your Responsibilities
 
-Kami mengharapkan Anda untuk memberikan informasi yang akurat dan terperinci tentang kerentanan yang Anda temukan, serta melakukan kerjasama selama proses penyelesaian masalah. Kami berterima kasih atas partisipasi Anda dalam menjaga keamanan proyek kami.
+We expect you to provide accurate and detailed information about the vulnerability you discover, and to cooperate during the issue resolution process. We appreciate your participation in maintaining the security of our project.
 
-## Penerimaan Laporan
+## Reporting Process
 
-Kami akan meninjau laporan Anda secepat mungkin. Jika laporan Anda diterima, kami akan memberikan konfirmasi kepada Anda dan bekerja sama dengan Anda untuk menyelesaikan masalah. Setelah masalah diselesaikan, kami akan mengakui kontribusi Anda di catatan rilis atau dalam bentuk lain yang sesuai.
+We will review your report as soon as possible. If your report is accepted, we will provide confirmation to you and work with you to resolve the issue. Once the issue is resolved, we will acknowledge your contribution in the release notes or in another appropriate form.
 
-Terima kasih atas dukungan Anda dalam menjaga keamanan proyek kami!
+Thank you for your support in maintaining the security of our project!
 
-
-## LICENSE 
+## LICENSE
 
 MIT License
 
-Hak Cipta (c) 2024 Yui - Neoi
+Copyright (c) 2024 Yui - Neoi
 
-Dengan ini diberikan izin, secara gratis, kepada siapa pun yang mendapatkan salinan
-perangkat lunak ini dan file dokumentasi terkait ("Perangkat Lunak"), untuk berurusan
-dalam Perangkat Lunak tanpa batasan, termasuk hak untuk menggunakan, menyalin, mengubah, 
-menggabungkan, menerbitkan, mendistribusikan, melisensikan, dan/atau menjual salinan 
-Perangkat Lunak, dan untuk mengizinkan orang yang kepada siapa Perangkat Lunak disediakan 
-untuk melakukan hal tersebut, dengan tunduk pada ketentuan berikut:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua 
-salinan atau sebagian besar Perangkat Lunak.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APAPUN, BAIK TERSURAT 
-MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN DIPERDAGANGKAN, KESESUAIAN 
-UNTUK TUJUAN TERTENTU, DAN TIDAK MELANGGAR. DALAM KEADAAN APA PUN PARA PENULIS ATAU PEMEGANG 
-HAK CIPTA TIDAK AKAN BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN, ATAU KEWAJIBAN LAINNYA, 
-BAIK DALAM TINDAKAN KONTRAK, KESALAHAN ATAU SEBALIKNYA, YANG TIMBUL DARI, DARI ATAU 
-BERHUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN ATAU PERDAGANGAN LAIN DALAM 
-PERANGKAT LUNAK.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
+## 📚 User Guide
 
-## 📚 Panduan Penggunaan
+### 1. Prerequisites
+List the prerequisites here.
 
-### 1. Prasyarat
-Pastikan Anda sudah menginstal Node.js dan npm di komputer Anda.
-
-### 2. Klon Repositori
-Klon repositori ini ke komputer Anda:
+### 2. Clone the Repository
+Clone this repository to your computer:
 ```bash
-git clone https://github.com/Lumine-MD/YuiNeoi.git
-cd YuiNeoi
+git clone https://github.com/YuiNeio/Yui-web/tree/main

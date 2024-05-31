@@ -9,6 +9,9 @@ Yui Neoi adalah bot WhatsApp yang dikembangkan oleh Lumine - MD. Bot ini dibangu
 - **Media**: Mengirim dan menerima gambar, video, dan dokumen.
 - **Penyesuaian**: Pengguna dapat menyesuaikan balasan bot sesuai kebutuhan mereka.
 
+## 🖼️ Screenshot
+![Screenshot](https://telegra.ph/file/c2b40bedb5c58953e3cc2.jpg)
+
 ## 🛠️ Teknologi yang Digunakan
 - **JavaScript**: Bahasa pemrograman utama untuk pengembangan bot.
 - **Node.js**: Lingkungan runtime untuk menjalankan kode JavaScript di server.
@@ -18,7 +21,7 @@ Yui Neoi adalah bot WhatsApp yang dikembangkan oleh Lumine - MD. Bot ini dibangu
 Ini adalah website pertama yang saya tiru dari penulis bot sendiri / penyedia dasar Lumine-MD, tampilan website ini adalah tata letak yang sederhana tanpa banyak menu tetapi menarik untuk dilihat. Terima kasih
 
 ## 🖼️ Screenshot
-![Screenshot](https://telegra.ph/file/c2b40bedb5c58953e3cc2.jpg)
+![Screenshot](https://telegra.ph/file/c1115866135fbdb685f69.jpg)
 
 ## Terima Kasih 🕊
 - Qyuunee (Pemilik) - <a href="https://chat.whatsapp.com/CjxuywuwOglE7p2tFBqdH3">Lumine - MD</a>

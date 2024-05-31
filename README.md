@@ -10,7 +10,7 @@ Yui Neoi is a WhatsApp bot developed by Lumine - MD. This bot is built using Jav
 - **Customization**: Users can customize bot responses according to their needs.
 
 ## 🖼️ Screenshot
-[![Screenshot](https://telegra.ph/file/c2b40bedb5c58953e3cc2.jpg)]
+![Screenshot](https://telegra.ph/file/c2b40bedb5c58953e3cc2.jpg)
 
 ## 🛠️ Technologies Used
 - **JavaScript**: The primary programming language for bot development.

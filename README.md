@@ -20,6 +20,9 @@ Yui Neoi is a WhatsApp bot developed by Lumine - MD. This bot is built using Jav
 ## 🍂 Website
 And this is the first website that I copied from the author of the bot himself / the base provider Lumine-MD, the appearance of this website is a Simple layout without many menus but attractive to look at, Thank you
 
+## 🖼️ Screenshot
+![Screenshot](https://telegra.ph/file/c1115866135fbdb685f69.jpg)
+
 ## thanks 🕊
 - Qyuunee (Owner) - [Lumine - MD](https://chat.whatsapp.com/CjxuywuwOglE7p2tFBqdH3)
 - YuiNeoi - [Group Yui-Neoi](https://chat.whatsapp.com/Gdosq4nvuoyA5IJlCh1aDA)

@@ -1,4 +1,4 @@
-# Yui Neoi - WhatsApp Bot (Website) 
+# Yui Neoi - (Website) 
 
 Yui Neoi is a WhatsApp bot developed by Lumine - MD. This bot is built using JavaScript, and its bot type is CJs. Yui Neoi is designed to provide various interesting features and functionalities to enhance the user experience on WhatsApp.
 
@@ -25,8 +25,7 @@ And this is the first website that I copied from the author of the bot himself /
 
 ## Progaming Language💻
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
+Here are the programming languages I use in the YuiNeoi website. With the presence of AI, I can work more freely, and when there are bugs, I can resolve them with the help of AI by searching for information on GitHub about this website. After discovering this website, I revamped everything from the front end to the back end.
 <img src="https://telegra.ph/file/e2a86cad814210f990bf9.jpg" width="25%" align="right" />
 
 [![HTML](https://img.shields.io/badge/HTML-HTML5-orange?style=for-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML5)

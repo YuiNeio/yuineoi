@@ -24,7 +24,8 @@ _For bots, they are not distributed widely, why? Because VIP bots or bots are fo
 And this is the first website that I copied from the author of the bot himself / the base provider Lumine-MD, the appearance of this website is a Simple layout without many menus but attractive to look at, Thank you
 
 ## 🖼️ Screenshot
-![Screenshot][https://telegra.ph/file/2fa41bb1fe232a98d9487.jpg](https://telegra.ph/file/c1115866135fbdb685f69.jpg)
+![Screenshot](https://telegra.ph/file/c1115866135fbdb685f69.jpg)
+![Screenshot](https://telegra.ph/file/2fa41bb1fe232a98d9487.jpg)
 
 ## thanks 🕊
 - Qyuunee (Owner) - [Lumine - MD](https://chat.whatsapp.com/CjxuywuwOglE7p2tFBqdH3)

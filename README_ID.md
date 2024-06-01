@@ -25,6 +25,7 @@ Ini adalah website pertama yang saya tiru dari penulis bot sendiri / penyedia da
 
 ## 🖼️ Screenshot
 ![Screenshot](https://telegra.ph/file/c1115866135fbdb685f69.jpg)
+![Screenshot](https://telegra.ph/file/2fa41bb1fe232a98d9487.jpg)
 
 ## Terima Kasih 🕊
 - Qyuunee (Pemilik) - <a href="https://chat.whatsapp.com/CjxuywuwOglE7p2tFBqdH3">Lumine - MD</a>

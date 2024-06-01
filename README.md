@@ -83,6 +83,7 @@ SOFTWARE.
 
 - [English](README.md)
 - [Bahasa Indonesia](README_ID.md)
+- [Japanese](README_JP.md)
 
 ## 📚 User Guide
 

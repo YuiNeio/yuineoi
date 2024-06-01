@@ -23,6 +23,17 @@ _For bots, they are not distributed widely, why? Because VIP bots or bots are fo
 ## 🍂 Website
 And this is the first website that I copied from the author of the bot himself / the base provider Lumine-MD, the appearance of this website is a Simple layout without many menus but attractive to look at, Thank you
 
+## Progaming Language💻
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<img src="https://telegra.ph/file/e2a86cad814210f990bf9.jpg" width="25%" align="right" />
+
+[![HTML](https://img.shields.io/badge/HTML-HTML5-orange?style=for-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS](https://img.shields.io/badge/CSS-CSS3-blue?style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-JS-yellow?style=for-the-badge&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript)
+
+
 ## 🖼️ Screenshot
 ![Screenshot](https://telegra.ph/file/c1115866135fbdb685f69.jpg)
 ![Screenshot](https://telegra.ph/file/2fa41bb1fe232a98d9487.jpg)

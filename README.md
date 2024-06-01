@@ -26,7 +26,6 @@ And this is the first website that I copied from the author of the bot himself /
 ## Progaming Language💻
 
 Here are the programming languages I use in the YuiNeoi website. With the presence of AI, I can work more freely, and when there are bugs, I can resolve them with the help of AI by searching for information on GitHub about this website. After discovering this website, I revamped everything from the front end to the back end.
-<img src="https://telegra.ph/file/e2a86cad814210f990bf9.jpg" width="25%" align="right" />
 
 [![HTML](https://img.shields.io/badge/HTML-HTML5-orange?style=for-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS](https://img.shields.io/badge/CSS-CSS3-blue?style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)
@@ -34,7 +33,6 @@ Here are the programming languages I use in the YuiNeoi website. With the presen
 [![SCSS](https://img.shields.io/badge/SCSS-Sass-hotpink?style=for-the-badge&logo=sass)](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
 [![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
-##
 
 ## 🖼️ Screenshot
 ![Screenshot](https://telegra.ph/file/c1115866135fbdb685f69.jpg)

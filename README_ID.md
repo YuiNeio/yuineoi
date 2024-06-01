@@ -1,4 +1,4 @@
-# Yui Neoi - Bot WhatsApp
+# Yui Neoi - Bot WhatsApp (Website) 
 
 Yui Neoi adalah bot WhatsApp yang dikembangkan oleh Lumine - MD. Bot ini dibangun menggunakan JavaScript, dan jenis botnya adalah CJs. Yui Neoi dirancang untuk memberikan berbagai fitur menarik dan fungsionalitas untuk meningkatkan pengalaman pengguna di WhatsApp.
 

@@ -32,6 +32,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 [![HTML](https://img.shields.io/badge/HTML-HTML5-orange?style=for-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS](https://img.shields.io/badge/CSS-CSS3-blue?style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-JS-yellow?style=for-the-badge&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript)
+[![SCSS](https://img.shields.io/badge/SCSS-Sass-hotpink?style=for-the-badge&logo=sass)](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
+[![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+
 
 
 ## 🖼️ Screenshot

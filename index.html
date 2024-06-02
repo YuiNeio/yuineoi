@@ -48,9 +48,29 @@
                 <li><a target="_self" href="https://wa.me/13036169066"><i class="fab fa-whatsapp"></i></a></li>
                 <li><a target="_self" href="https://t.me/SxNtxx777"><i class="fab fa-telegram"></i></a></li>
                 <li><a target="_self" href="https://www.instagram.com/xecteam_?igsh=d3gyOG02Zm5xb25r"><i class="fab fa-instagram"></i></a></li>
-                 <li><a target="_self" href="https://github.com/YuiNeio"><i class="fab fa-github"></i></a></li>
+                 <li><a target="_self" href="https://github.com/YuiNeio"><i class="fab fa-github"></i></a></li>                
               </ul>
             </section>
+            <script>
+const audio = new Audio('yuineoi.mp4')
+addEventListener('DOMContentLoaded', () => {
+Swal.fire({
+title: 'Halo',
+text: 'Welcome to my website',
+icon: 'success',
+confirmButtonText: 'OK'
+}).then(async(result)  => {
+if (result.isConfirmed) {
+await audio.play()
+var elem = document.documentElement;
+var requestFullScreen = elem.requestFullscreen || elem.mozRequestFullScreen || elem.webkitRequestFullscreen || elem.msRequestFullscreen;
+if (requestFullScreen) {
+requestFullScreen.call(elem);
+}
+}
+})
+})
+            </script>
           </header>
         </div>
       </div>
